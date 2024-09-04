@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-My dad introduced me to the world of computers at the age of 10. Ever since then, I have had a passion for computer science and aim to study at a top computing university. Currently, I am in year 11 and will complete my GCSEs in May 2025. I am going to study Maths, Further Maths, Physics and Computer Science in A levels based on my GCSE results which I am optimistic about. I am familiar with python, but I still have a lot to learn!
+At the age of 10, my father introduced me to the world of computers, sparking a passion for technology that has grown ever since. This early exposure has driven me to pursue a future in computer science, with the aim of studying at a leading university in the field. Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science—subjects that will provide a solid foundation for my aspirations. I am familiar with Python, however I am eager to delve deeper into programming and expand my understanding of the broader landscape of computer science.
 
 * 🌍  I'm based in Essex
 * ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
