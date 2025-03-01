@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Computer Scientist
 --------------------------
 
-At the age of 10, my father introduced me to python and raspberry pi. This motivated me to study computer science, with the aim of studying at a leading university in the field. Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science—subjects that will provide a solid foundation for my aspirations. I am familiar with Python, however I am eager to delve deeper into programming and expand my understanding of the broader landscape of computer science.
+At the age of 10, my father introduced me to python and raspberry pi. This motivated me to study computer science, with the aim of studying at a leading university in the field. Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science—subjects that will provide a solid foundation for my aspirations.
 
 * 🌍  I'm based in Essex
 * ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
