@@ -3,13 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Student
 --------------------------
-
-At the age of 10, my father introduced me to python and raspberry pi. This motivated me to study computer science, with the aim of studying at a leading university in the field. Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science.
+Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science.
 
 * 🌍  I'm based in Essex
 * ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
 * 🧠  I'm learning Master the Coding Interview: Data Structures + Algorithms (ZTM)
-* 🤝  I'm open to collaborating on python projects to build experience!
+* 🤝  I'm open to collaborating on projects to build experience!
 
 ### Skills
 
