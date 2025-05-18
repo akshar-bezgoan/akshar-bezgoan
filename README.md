@@ -7,7 +7,7 @@ Currently, I am in Year 11, currently writing my GCSEs in May 2025. I plan to ta
 
 * 🌍  I'm based in Essex
 * ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
-* 🧠  I'm learning Master the Coding Interview: Data Structures + Algorithms (ZTM)
+* 🧠  I'm practising DSA, after completing Andrei Neagoie's DSA course!
 * 🤝  I'm open to collaborating on projects to build experience!
 
 ### Skills
