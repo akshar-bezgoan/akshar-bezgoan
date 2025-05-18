@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Student
 --------------------------
-Currently, I am in Year 11, preparing to complete my GCSEs in May 2025. I plan to continue my academic journey by taking A-levels in Maths, Further Maths, Physics, and Computer Science.
+Currently, I am in Year 11, currently writing my GCSEs in May 2025. I plan to take A-levels in Maths, Further Maths, Physics, and Computer Science in 6th form.
 
 * 🌍  I'm based in Essex
 * ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
