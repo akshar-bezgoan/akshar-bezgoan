@@ -3,13 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Student
 --------------------------
-Currently, I am in Year 11, currently writing my GCSEs in May 2025. I plan to take A-levels in Maths, Further Maths, Physics, and Computer Science in 6th form.
-
-* 🌍  I'm based in Essex
-* ✉️  You can contact me at [aksharbezgoan@gmail.com](mailto:aksharbezgoan@gmail.com)
-* 🧠  I'm practising DSA, after completing Andrei Neagoie's DSA course!
-* 🤝  I'm open to collaborating on projects to build experience!
-
+Currently, I am in year 12 studying maths, further maths, computing and physics.
+I am working towards my A levels along with personal projects.
+<!--
 ### Skills
 
 
@@ -22,7 +18,7 @@ Currently, I am in Year 11, currently writing my GCSEs in May 2025. I plan to ta
 
 <p align="left"> <a href="https://discord.com/users/thebez_." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/akshar-bezgoan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<!--
+
 **akshar-bezgoan/akshar-bezgoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
