@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Akshar
-======================================================================================================================================
-
-### Student
---------------------------
+**Akshar Bezgoan**
 Currently, I am in year 12 studying maths, further maths, computing and physics.
 I am working towards my A levels along with personal projects.
 <!--
