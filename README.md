@@ -1,4 +1,5 @@
-**Akshar Bezgoan**
+**Akshar Bezgoan** 
+
 Currently, I am in year 12 studying maths, further maths, computing and physics.
 I am working towards my A levels along with personal projects.
 <!--
